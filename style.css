@@ -1,0 +1,50 @@
+
+body {
+   background-color: #cccc00;
+}
+.app_container{
+    margin: 0 500px;
+    border: 2px black solid;
+    height: 700px;
+    margin: 10px 500px;
+    background-color: white; 
+    border-radius: 30px; 
+}
+.app_header{
+    text-align: center;
+    background-color: blueviolet;
+    color: wheat;
+    border-radius: 10px;
+    margin: 10px 40px;
+    border: 2px black solid;   
+}
+#todo-list {
+    margin-top: 20px;   
+}
+
+#add-task-form {
+    margin-top: 60px;
+    display: block;
+    text-align: center;
+    font-size: 20px;
+}
+
+.btn{
+    cursor: pointer;
+    background-color:blueviolet;
+    color: white;
+    font-size: 25px;
+    border-radius: 10px;
+    border: wheat 2px solid; 
+    
+}
+#task{
+    font-size: 25px;
+     border-radius: 18px solid black;  
+}
+#Add_New{
+    font-size: 25px;
+}
+#todo-list{
+    font-size: 25px;
+}
